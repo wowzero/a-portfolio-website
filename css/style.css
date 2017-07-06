@@ -1,0 +1,58 @@
+/** {
+  box-sizing: border-box;
+
+}
+
+body{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.row{
+  width=100vw
+}
+.col-md-6{
+  width=50vw
+}
+
+.col-md-4{
+  width=33.333vw
+}
+
+.author-name{
+  font-family: 'Open Sans', sans-serif;
+}
+
+.subject-name, .indication{
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.web-top{
+  height: 25vh;
+}
+
+.img-logo{
+  height: 20vh;
+  margin-top: 2.5vh;
+  width: 10vw;
+}
+
+.web-header{
+
+}
+.web-medium1{
+  height: 50vh;
+}
+
+.article-photo{
+  height: 50vh;
+  weight: 90vw;
+}
+
+.project-picture{
+  width: 80vw;
+}
+
+@media screen and (min-width: 768px){
+
+}*/
